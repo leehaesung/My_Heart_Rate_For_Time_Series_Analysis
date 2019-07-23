@@ -25,3 +25,12 @@
 
 * [Deep PPG: Large-Scale Heart Rate Estimation with
 Convolutional Neural Networks](https://www.mdpi.com/1424-8220/19/14/3079/pdf)
+
+* [ECGadv: Generating Adversarial Electrocardiogram to
+Misguide Arrhythmia Classification System](https://arxiv.org/pdf/1901.03808.pdf)
+
+* [DeepHeart: Semi-Supervised Sequence Learning for Cardiovascular Risk
+Prediction](https://arxiv.org/pdf/1802.02511.pdf)
+
+* [WRISTO2: RELIABLE PERIPHERAL OXYGEN SATURATION
+READINGS FROM WRIST-WORN PULSE OXIMETERS](https://arxiv.org/pdf/1906.07545.pdf)
