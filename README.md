@@ -3,12 +3,16 @@
 ***
 ## 개요
 - [iPhone & Apple Watch HealthKit 데이터 추출 및 컨버터 사용법](https://github.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/blob/master/HowToConvertFromXML2CSV.md)
-- 애플워치2를 통해서 Heart rate 데이타를 시각화 및 시계열분석 
-- 심박수 데이타를 뽑아낸후 xml에서 CSV 파일로 변환 
+- 애플워치2를 통해서 Heart rate 데이타를 시각화 및 시계열분석  
+
+---
+# Dataset
+* [Health_Data.csv](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/data/Health_Data.csv)
+
 
 ---
 
-## Jupyter Notebook
+## Source Code
 
 * [Jupyter Notebook Viewer (web)](https://nbviewer.jupyter.org/github/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/blob/master/02_Codes/My_Heart_Rate_For_Time_Series_Analysis.ipynb)
 * [Jupyter Notebook (ipynb)](https://github.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/blob/master/02_Codes/My_Heart_Rate_For_Time_Series_Analysis.ipynb)
