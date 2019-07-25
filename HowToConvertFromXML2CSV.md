@@ -11,7 +11,7 @@
   * Health 앱을 실행합니다.
   * 오른쪽 상단의 아이콘을 탭합니다.
   * 'Export Health Data'를 탭합니다.
-  * [Convert_HealthKit_Data.py 다운로드하세요.](https://github.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/raw/master/02_Codes/Convert_HealthKit_Data.py)
+  * [Convert_HealthKit_Data.py](https://github.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/raw/master/02_Codes/Convert_HealthKit_Data.py) 다운로드하세요.
 
 ![HowToExportHealthKitData](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/HowToExportHealthKitData.png)
 
