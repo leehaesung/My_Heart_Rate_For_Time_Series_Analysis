@@ -10,7 +10,7 @@
 
 ## Jupyter Web Notebook
 
-* [Jupyter Web Notebook](https://nbviewer.jupyter.org/github/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/blob/master/02_Codes/My_Heart_Rate_For_Time_Series_Analysis.ipynb)
+* [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/blob/master/02_Codes/My_Heart_Rate_For_Time_Series_Analysis.ipynb)
 
 ![Prediction](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/Prediction.png)
 
