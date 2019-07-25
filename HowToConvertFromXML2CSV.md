@@ -1,4 +1,4 @@
-# How To Convert From XML To CSV (HeatheKit data of Apple Watch):
+# How To Export & Convert From XML To CSV (HeatheKit data of Apple Watch):
 
 ***
 
