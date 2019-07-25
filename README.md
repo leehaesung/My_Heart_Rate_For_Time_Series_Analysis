@@ -34,3 +34,5 @@ Prediction](https://arxiv.org/pdf/1802.02511.pdf)
 
 * [WRISTO2: RELIABLE PERIPHERAL OXYGEN SATURATION
 READINGS FROM WRIST-WORN PULSE OXIMETERS](https://arxiv.org/pdf/1906.07545.pdf)
+
+* [HealthKit_data_convert](https://github.com/nabelekt/HealthKit_data_convert)
