@@ -21,21 +21,29 @@
 ---
 
 ## Data Visualization 
+
 * Prediction
 ![Prediction](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/Prediction.png)
+
 * Apple Watch with Heart
 ![Simulation](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/Apple-Watch.gif)
+
 * Photodiodes Sensor
 ![HearRate](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/apple-watch-diagram.jpg)
+
 * Heart Rate (bpm)
 ![HealthKitData01.png](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/HealthKitData01.png)
+
 * Histogram
 ![HealthKitData02.png](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/HealthKitData02.png)
+
 * Density
 ![HealthKitData03.png](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/HealthKitData03.png)
 
+* Lag Plot
 ![HealthKitData04.png](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/HealthKitData04.png)
 
+* Autocorelation Diagram
 ![HealthKitData05.png](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/HealthKitData05.png)
 
 ---
