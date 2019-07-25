@@ -18,11 +18,25 @@
 * [Jupyter Notebook Viewer (web)](https://nbviewer.jupyter.org/github/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/blob/master/02_Codes/My_Heart_Rate_For_Time_Series_Analysis.ipynb)
 * [Jupyter Notebook (ipynb)](https://github.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/blob/master/02_Codes/My_Heart_Rate_For_Time_Series_Analysis.ipynb)
 
+---
+
+## Data Visualization 
+
 ![Prediction](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/Prediction.png)
 
 ![Simulation](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/Apple-Watch.gif)
 
 ![HearRate](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/apple-watch-diagram.jpg)
+
+![HealthKitData01.png](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/HealthKitData01.png)
+
+![HealthKitData02.png](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/HealthKitData01.png)
+
+![HealthKitData03.png](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/HealthKitData01.png)
+
+![HealthKitData04.png](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/HealthKitData01.png)
+
+![HealthKitData05.png](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/HealthKitData01.png)
 
 ***
 ## References
