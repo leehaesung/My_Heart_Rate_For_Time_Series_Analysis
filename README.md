@@ -3,6 +3,7 @@
 ***
 ## 개요
 - [iPhone & Apple Watch HealthKit 데이터 추출 및 컨버터 사용법](https://github.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/blob/master/HowToConvertFromXML2CSV.md)
+- CSV 데이타로 추출후 각자 데이타클리닝작업을 해야한다.
 - 애플워치2를 통해서 Heart rate 데이타시각화 및 시계열분석  
 
 ---
